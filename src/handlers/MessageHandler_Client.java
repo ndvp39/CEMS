@@ -26,7 +26,7 @@ import student.StudentDashboardFrameController;
 
 public class MessageHandler_Client {
 	
-	private static String userID = null;
+	private static String userID = null;//
 
 
 	/**
